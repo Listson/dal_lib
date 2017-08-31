@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA9B598A-9D4B-46F0-8934-89312C84D33C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sunshineiot.Core</RootNamespace>
+    <AssemblyName>Sunshineiot.Core</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Args\DeleteEventArgs.cs" />
+    <Compile Include="Args\InsertEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Args\UpdateEventArgs.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Base\LoginerBase.cs" />
+    <Compile Include="Base\ModelBase.cs" />
+    <Compile Include="Base\RequestWrapper.cs" />
+    <Compile Include="Base\ServiceBase.cs" />
+    <Compile Include="Base\ServiceBaseDelete.cs" />
+    <Compile Include="Base\ServiceBaseInsert.cs" />
+    <Compile Include="Base\ServiceBaseLog.cs" />
+    <Compile Include="Base\ServiceBaseQuery.cs" />
+    <Compile Include="Base\ServiceBaseUpdate.cs" />
+    <Compile Include="Base\ServiceBaseUtils.cs" />
+    <Compile Include="Core\APP.cs" />
+    <Compile Include="Core\Attribute.cs" />
+    <Compile Include="Core\Compare.cs" />
+    <Compile Include="Core\Db.cs" />
+    <Compile Include="Core\FormsAuth.cs" />
+    <Compile Include="Core\NewKey.cs" />
+    <Compile Include="Core\PinYin.cs" />
+    <Compile Include="Core\ZException.cs" />
+    <Compile Include="Core\ZMessage.cs" />
+    <Compile Include="Enum\DownloadType.cs" />
+    <Compile Include="Enum\ErrorHandleType.cs" />
+    <Compile Include="Enum\FileSuffix.cs" />
+    <Compile Include="Enum\MsgType.cs" />
+    <Compile Include="Enum\OptType.cs" />
+    <Compile Include="Enum\ServiceType.cs" />
+    <Compile Include="Enum\TabType.cs" />
+    <Compile Include="IISHandler1.cs" />
+    <Compile Include="Logs\LogHelper.cs" />
+    <Compile Include="Logs\LogReader.cs" />
+    <Compile Include="Param\ParamDelete.cs" />
+    <Compile Include="Param\ParamDeleteData.cs" />
+    <Compile Include="Param\ParamInsert.cs" />
+    <Compile Include="Param\ParamInsertData.cs" />
+    <Compile Include="Param\ParamQuery.cs" />
+    <Compile Include="Param\ParamQueryData.cs" />
+    <Compile Include="Param\ParamSP.cs" />
+    <Compile Include="Param\ParamSPData.cs" />
+    <Compile Include="Param\ParamUpdate.cs" />
+    <Compile Include="Param\ParamUpdateData.cs" />
+    <Compile Include="Param\ParamUtils.cs" />
+    <Compile Include="Param\ParamWhere.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Logs\Default.config">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Sunshineiot.Data\Sunshineiot.Data.csproj">
+      <Project>{b5ae821b-7728-49b3-9119-3bbc4c8e58e9}</Project>
+      <Name>Sunshineiot.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Sunshineiot.Utils\Sunshineiot.Utils.csproj">
+      <Project>{7e02f61b-55ea-4e3f-a771-f202faa48294}</Project>
+      <Name>Sunshineiot.Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

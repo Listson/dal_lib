@@ -1,0 +1,40 @@
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.dll
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.pdb
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\bin\Debug\Newtonsoft.Json.dll
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.dll
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.dll
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.pdb
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.pdb
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.csprojResolveAssemblyReference.cache
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.dll
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.pdb
+F:\project\WebApi\Personal\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.dll
+F:\project\WebApi\Personal\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.pdb
+F:\project\WebApi\Personal\Sunshineiot.Core\bin\Debug\Newtonsoft.Json.dll
+F:\project\WebApi\Personal\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.dll
+F:\project\WebApi\Personal\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.dll
+F:\project\WebApi\Personal\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.pdb
+F:\project\WebApi\Personal\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.pdb
+F:\project\WebApi\Personal\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.csprojResolveAssemblyReference.cache
+F:\project\WebApi\Personal\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.dll
+F:\project\WebApi\Personal\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.pdb
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.dll
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.pdb
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Newtonsoft.Json.dll
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.dll
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.dll
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.pdb
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.pdb
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.csprojResolveAssemblyReference.cache
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.dll
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.pdb
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.dll
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Core.pdb
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Newtonsoft.Json.dll
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.dll
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.dll
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Data.pdb
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\bin\Debug\Sunshineiot.Utils.pdb
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.dll
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Core\obj\Debug\Sunshineiot.Core.pdb

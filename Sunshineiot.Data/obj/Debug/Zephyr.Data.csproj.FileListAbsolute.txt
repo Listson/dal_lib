@@ -1,0 +1,5 @@
+C:\asp.net\downloads\asp.net+Web+mvc4.0 EasyUI 最新 权限管理系统源码\BN089-BS开发框架MVC4版\source20131023\Zephyr.Net\Zephyr.Data\bin\Debug\Zephyr.Data.dll
+C:\asp.net\downloads\asp.net+Web+mvc4.0 EasyUI 最新 权限管理系统源码\BN089-BS开发框架MVC4版\source20131023\Zephyr.Net\Zephyr.Data\bin\Debug\Zephyr.Data.pdb
+C:\asp.net\downloads\asp.net+Web+mvc4.0 EasyUI 最新 权限管理系统源码\BN089-BS开发框架MVC4版\source20131023\Zephyr.Net\Zephyr.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\asp.net\downloads\asp.net+Web+mvc4.0 EasyUI 最新 权限管理系统源码\BN089-BS开发框架MVC4版\source20131023\Zephyr.Net\Zephyr.Data\obj\Debug\Zephyr.Data.dll
+C:\asp.net\downloads\asp.net+Web+mvc4.0 EasyUI 最新 权限管理系统源码\BN089-BS开发框架MVC4版\source20131023\Zephyr.Net\Zephyr.Data\obj\Debug\Zephyr.Data.pdb

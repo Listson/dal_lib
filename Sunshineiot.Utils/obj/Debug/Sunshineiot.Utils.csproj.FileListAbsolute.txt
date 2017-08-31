@@ -1,0 +1,26 @@
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.dll
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.pdb
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.Document.Excel.NPOI.Resource1.resources
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.csproj.GenerateResource.Cache
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.dll
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.pdb
+E:\Work\Face++\FaceAdvTestForm\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.csprojResolveAssemblyReference.cache
+F:\project\WebApi\Personal\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.dll
+F:\project\WebApi\Personal\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.pdb
+F:\project\WebApi\Personal\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.Document.Excel.NPOI.Resource1.resources
+F:\project\WebApi\Personal\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.csproj.GenerateResource.Cache
+F:\project\WebApi\Personal\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.dll
+F:\project\WebApi\Personal\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.pdb
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.dll
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.pdb
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.Document.Excel.NPOI.Resource1.resources
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.csproj.GenerateResource.Cache
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.dll
+E:\Work\智慧党建\Source\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.pdb
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.dll
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Utils\bin\Debug\Sunshineiot.Utils.pdb
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.csprojResolveAssemblyReference.cache
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.Document.Excel.NPOI.Resource1.resources
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.csproj.GenerateResource.Cache
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.dll
+E:\visual studio 2013\Works\Api\PartyBuildingApi\Sunshineiot.Utils\obj\Debug\Sunshineiot.Utils.pdb
